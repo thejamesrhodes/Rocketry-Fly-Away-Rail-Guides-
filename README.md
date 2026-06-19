@@ -10,7 +10,7 @@ The wrap sections use a printed plastic hinge as the intended weakest point in t
 
 ## Printing
 
-Wrap sections print at ≥~50% infill with ≥~4 wall lines.
+Wrap sections print at ≥50% infill with ≥~4 wall lines.
 Any reasonable filament is likely fine, flight tested with PLA 100% infill on a E35 motor with a ~400g mass rocket.
 ## License
 
